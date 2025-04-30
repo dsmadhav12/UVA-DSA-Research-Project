@@ -1,13 +1,14 @@
 # UVA-DSA-Research-Project
 
 Set up and how to run:
-1. cd into the server folder of the project
-2. Once there install the requirements using "pip install -r requirements.txt"
-3. Then run the python server using "python server.py"
-4. Now open up a new terminal and cd into the client folder
-5. Now run "./gradlew clean build"
-5. Now run "./gradlew run"
-6. If you want to use a different file place it in the video folder update the path in the Client.java file and re-run the steps
+1. Move a video file into the videos file and update the path variable in Client.java
+2. then cd into the server folder of the project
+3. Once there install the requirements using "pip install -r requirements.txt"
+4. Then run the python server using "python server.py"
+5. Now open up a new terminal and cd into the client folder
+6. Now run "./gradlew clean build"
+7. Now run "./gradlew run"
+
 
 
 Sources Used:
